@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Maven+Pro:wght@400;500;600;700;800&display=swap');
+
+body {
+    overflow-x: hidden;
+}
+
+.btn__container {
+    background: linear-gradient(284deg, rgba(0, 200, 0, .4), rgba(0, 230, 255, .4));
+}
+
+.non__profit__container {
+    background: url('./assets/cardOne.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #f7f7fb;
+    background-size: contain;
+}
