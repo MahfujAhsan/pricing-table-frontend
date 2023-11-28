@@ -19,3 +19,24 @@ body {
     background-color: #f7f7fb;
     background-size: contain;
 }
+
+.small__business__container {
+    background: url('./assets/cardThree.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #f7f7fb;
+    background-size: contain;
+}
+
+.woocommerce__container {
+    background: url('./assets/cardFour.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #f7f7fb;
+    background-size: contain;
+}
+
+.modal__background {
+    background: linear-gradient(284deg, rgba(0, 199, 27, .5), rgba(0, 148, 255, .5))
+}
+
